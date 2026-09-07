@@ -35,10 +35,7 @@
 └──────────────────────────────────────────────┘
 ```
 
-<img width="3840" height="1458" alt="Zootopia 2 2025 1080p mkv contact-sheet" src="https://github.com/user-attachments/assets/07da1822-6dbf-4952-899a-6c9181f0fa7a" />
-
-
-
+<img src="./Zootopia.2.2025.1080p.mkv.contact-sheet.png" alt="Zootopia 2 2025 影片缩略图" width="600"/>
 
 
 
