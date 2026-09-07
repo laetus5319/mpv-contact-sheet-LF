@@ -127,4 +127,4 @@ mpv/
                     ▼
        example.mp4.contact-sheet.png
 
-       存方在当前视频同一目录下
+       存放于当前视频同一目录下
