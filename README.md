@@ -35,7 +35,7 @@
 └──────────────────────────────────────────────┘
 ```
 
-<img src="./Zootopia.2.2025.1080p.mkv.contact-sheet.png" alt="Zootopia 2 2025 影片缩略图" width="600"/>
+![Zootopia 2 2025 影片缩略图](./Zootopia.2.2025.1080p.mkv.contact-sheet.png)
 
 
 
