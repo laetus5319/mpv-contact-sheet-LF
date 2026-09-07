@@ -35,7 +35,7 @@
 └──────────────────────────────────────────────┘
 ```
 
-![Zootopia 2 2025 影片缩略图](./Zootopia.2.2025.1080p.mkv.contact-sheet.png)
+![Zootopia 2 影片缩略图](./zootopia2-thumbnail.png)
 
 
 
